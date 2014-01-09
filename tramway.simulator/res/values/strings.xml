@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tramway Simulator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="find">Find</string>
+    <string name="def_sim">Simulation par Defaut </string>
+    <string name="conf_sim">Configurer la Simulation</string>
+    <string name="exit">Quitter</string>
+    <string name="trip">Voyage</string>
+    <string name="arr_imp">Arret imprevisible</string>
+    <string name="vitesse">Vitesse</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="add">ajouter</string>
+    <string name="echelle">Echelle</string>
+    <string name="nombre_de_voyageurs">Nombre de voyageurs</string>
+    <string name="menu">MENU</string>
+    <string name="station_fin">Station fin</string>
+    <string name="station_debut">Station debut</string>
+
+    <string-array name="station ">
+        <item>"ain diab"</item>
+        <item>"3abd elmoumen"</item>
+        <item>annassi</item>
+    </string-array>
+
+    <string name="retour">&lt;-</string>
+    <string name="avancer">-></string>
+    <string name="avant">&lt;-</string>
+
+    <string-array name="echelle ">
+        <item>"10%"</item>
+        <item>"20%"</item>
+        <item>30%</item>
+    </string-array>
+        <string name="ok">OK</string>
+
+   
+
+</resources>
